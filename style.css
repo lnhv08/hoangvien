@@ -145,17 +145,17 @@ nav ul li a:hover {
     font-size: 14px;
     line-height: 1.6;
 }
-/* VIDEO NỔI BẬT */
 
 .video-box {
     text-align: center;
 }
 
 .video-box video {
-    width: 70%;      /* chỉnh to nhỏ tùy ý */
+    width: 70%;   
     max-width: 800px;
     border-radius: 12px;
     margin-top: 10px;
 }
+
 
 
